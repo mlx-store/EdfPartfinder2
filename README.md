@@ -1,4 +1,4 @@
-# Export/Import Part Finder (Multi Level)
+# Export/Import Part Finder (Multi Level) for magento
 
 This is extension export/import data for part finder(Multi level) extension. You can create data fast more create each item through website. Also, It can help you move data from an website to an website other fast.
 
